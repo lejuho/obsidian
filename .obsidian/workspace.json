@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "3709a9d3f8cda54c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f63b8e5f43aada2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "207762fc7f45e8b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일간 노트/2024-03-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b9c24f6983b1761",
+    "type": "split",
+    "children": [
+      {
+        "id": "186abe0ff880dbc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9de95a7d150e0f78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd5688a287ce55da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71af756514c5e05d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1aef7a4f14a711a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일간 노트/2024-03-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bca47bb6112ece90",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "12d2df22e92bd15a",
+    "type": "split",
+    "children": [
+      {
+        "id": "32740798063b2f78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44535a84a0eb8b26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "일간 노트/2024-03-10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4f867490f68d5ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "일간 노트/2024-03-10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12227267175372de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a48c655b0aaa3b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "일간 노트/2024-03-10.md"
+              }
+            }
+          },
+          {
+            "id": "8809241639dc6f28",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ce9943dbf89ae81",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b34ed1599420fa36",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:변경사항 출판": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "zk-prefixer:새로운 유니크 노트 생성": false,
+      "random-note:랜덤 노트 열기": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "bca47bb6112ece90",
+  "lastOpenFiles": [
+    "일간 노트/2024-03-10.md",
+    "일간 노트/2024-03-06.md",
+    "일간 노트/2024-03-07.md",
+    "일간 노트/템플릿/일간 노트 템플릿.md",
+    "일간 노트/템플릿",
+    "일간 노트/템플릿/Dashboard.md",
+    "일간 노트/템플릿/2021-W44.md",
+    "일간 노트/템플릿/Vision Board.md",
+    "1학년/계산.md",
+    "1학년/겨울방학(1학년).md",
+    "일간 노트",
+    "1학년/하이커넥트 권예빈 님.md",
+    "2학년/논리회로설계및실험/진수.md",
+    "1학년/통제불가능한 3개와 가장 통제하기 쉬운(가장 통제적으로 무의미)한 것.md",
+    "1학년/비행기시간.md",
+    "2학년/논리회로설계및실험",
+    "무제 파일.canvas",
+    "1학년/하이커넥트 정연두 님.md",
+    "1학년/사회학의 이해 과제.md",
+    "1학년",
+    "2학년",
+    "1학년/데브톡.md",
+    "1학년/하이커넥트 김종욱 님.md",
+    "사회학의 이해.md",
+    "1학년/씨프 과제.md",
+    "1학년/프레이저 보고서.md",
+    "1학년/지식재산과법 시험.md",
+    "현사윤 과제.md",
+    "2023-11-02.md",
+    "옵시디언.md",
+    "지식재산과 법.md"
+  ]
+}
